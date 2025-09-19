@@ -1,0 +1,8 @@
+openpyxl
+pandas
+openai
+matplotlib
+seaborn
+scitkit-learn
+gensim
+nltk
